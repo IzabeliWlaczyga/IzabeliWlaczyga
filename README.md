@@ -1,8 +1,21 @@
 ## Oie! Sou a Izabeli Wlaczyga...
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="JavaScript" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="HTML" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
 <div>
   <a href="https://github.com/IzabeliWlaczyga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzabeliWlaczyga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabeliWlaczyga&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+<div>
+  <br>
+  
 </div>
 
 
