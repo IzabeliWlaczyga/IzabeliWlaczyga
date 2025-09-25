@@ -26,11 +26,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabeliWlaczyga&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div>
+<!-- <div>
   <br>
   
   ![Snake animation](https://github.com/IzabeliWlaczyga/IzabeliWlaczygai/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div> -->
 
 
 <!--
