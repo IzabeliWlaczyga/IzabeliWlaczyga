@@ -1,7 +1,7 @@
 ## Hi there! I'm Izabeli Wlaczyga...
 
 -💻 Software Development Technology Student, passionate about building and learning new technologies.  
--🚀 Focused on Full Stack Development with **Java, JavaScript, and React**.  
+-🚀 Focused on Full Stack Development.  
 -🔧 Always exploring new tools, frameworks, and best practices to grow as a developer. 
 
 ### 🌐 Connect with me
@@ -28,7 +28,7 @@
 
 <div>
   <br>
-  
+  ![Snake animation](https://github.com/IzabeliWlaczyga/IzabeliWlaczygai/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
