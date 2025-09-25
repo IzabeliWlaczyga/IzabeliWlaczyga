@@ -1,4 +1,14 @@
-## Oie! Sou a Izabeli Wlaczyga...
+## Hi there! I'm Izabeli Wlaczyga...
+
+-💻 Software Development Technology Student, passionate about building and learning new technologies.  
+-🚀 Focused on Full Stack Development with **Java, JavaScript, and React**.  
+-🔧 Always exploring new tools, frameworks, and best practices to grow as a developer. 
+
+### 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/)
+
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="JavaScript" heigth="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -8,6 +18,7 @@
 </div>
 
 <div>
+  <br>
   <a href="https://github.com/IzabeliWlaczyga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzabeliWlaczyga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabeliWlaczyga&layout=compact&langs_count=16&theme=dracula"/>
