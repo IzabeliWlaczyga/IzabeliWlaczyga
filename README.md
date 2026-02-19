@@ -1,7 +1,7 @@
 ## Hi there! I'm Izabeli Wlaczyga...
 
 -💻 TADS Student, passionate about building and learning new technologies.  
--🚀 Focused on Full Stack Development.  
+-🚀 Focused on Back end Development.  
 -🔧 Always exploring new tools, frameworks, and best practices to grow as a developer. 
 
 ### 🌐 Connect with me
